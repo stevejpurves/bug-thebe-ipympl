@@ -1,6 +1,6 @@
 # bug-thebe-ipympl
 
-A build of the thebe simple demo that reproduces the the followin issues:
+A build of the thebe simple demo that reproduces the the following issues:
 
 1. [resize handle not working](https://github.com/matplotlib/ipympl/issues/501)
    - visit [ipywidgets]()
