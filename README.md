@@ -27,4 +27,4 @@ A deployment of the thebe simple demo that reproduces the the following issues:
 
 ## Deployment
 
-[https://stevejpurves.github.io/bug-thebe-ipympl/ipywidgets.html](https://stevejpurves.github.io/bug-thebe-ipympl/ipywidgets.html)
+[https://stevejpurves.github.io/bug-thebe-ipympl](https://stevejpurves.github.io/bug-thebe-ipympl)
