@@ -1,0 +1,12 @@
+name: bug-thebe-ipympl
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - ipykernel
+  - ipywidgets>=8
+  - ipyleaflet
+  - ipympl>=0.9.2
